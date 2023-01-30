@@ -1,5 +1,7 @@
 {       
-    "Jadon Sancho":[{"klubb": "Manchester United", "alder": "21"}],
-    "Marcus Rashford":[{ "klubb": "Manchester United", "alder": "25"}],
-    "Jude Bellingham": [{"klubb": "Dortmund", "alder": "19"}]
+    "ballers" :[
+        {"navn": "Jadon Sancho", "klubb": "Manchester United", "alder": "21"},
+        {"navn": "Marcus Rashford", "klubb": "Manchester United", "alder": "25"},
+        {"navn": "Jude Bellingham","klubb": "Dortmund", "alder": "19"}
+    ]
 }
